@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div>
-      <h1 className='text-4xl bg-black text-white p-4'>
+      <h1 className='text-4xl bg-green-500 text-white p-4'>
         Covid-19 Live Tracker
       </h1>
       <div className='flex items-center justify-center pt-5'>
